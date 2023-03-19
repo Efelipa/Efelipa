@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Efelipa, a Front-End Developer.
+- 👋 Hi, I’m @Efelipa, a Front-End Developer (HTML, CSS, Javascript, Sass, Django)
 - 👀 I’m interested in Web & Mobile Technologies.
 - 🌱 I’m currently learning about how it works the Web and how i can make a change.
 
