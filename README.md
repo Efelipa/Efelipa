@@ -5,6 +5,7 @@
   
   [![Linekedin Profile](https://img.shields.io/badge/Linkedin-Web-skyblue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/efelipadev/)
   [![Static Badge](https://img.shields.io/badge/Portfolio-Web-red?style=for-the-badge&logo=Portfolio&logoColor=skyblue&label=Portfolio)](https://efelipa.tech) 
+  [![Medium Profile](https://medium.com/@erickfelipa)]
 </div>
 
 ## Sobre Mi 
